@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 """
-Square class definition
+This is documentation for empty square
 """
-class Square:
 
+class Square:
+    """ This is a class that does nothing but defines a class """
     pass
